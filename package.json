@@ -1,0 +1,24 @@
+{
+  "name": "pj",
+  "version": "1.0.0",
+  "description": "PlainJS essentials",
+  "main": "pj.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do4/PJ.git"
+  },
+  "keywords": [
+    "plainjs",
+    "vanilla",
+    "jquery"
+  ],
+  "author": "Do4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/do4/PJ/issues"
+  },
+  "homepage": "https://github.com/do4/PJ#readme"
+}
